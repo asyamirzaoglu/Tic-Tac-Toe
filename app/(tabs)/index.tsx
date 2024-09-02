@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import Game from './game'; // Bu yolu güncellemen gerekebilir
+import Game from './game';
 
 export default function HomeScreen() {
   return (
